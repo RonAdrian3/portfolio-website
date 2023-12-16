@@ -1,0 +1,298 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #DCDCDC;
+  }
+  
+  header {
+    background-color: #696969;
+    color: #000000;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav li {
+    margin: 0 1em;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  nav a:hover {
+    color: #DCDCDC; 
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 4em;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    color: #000000;
+    line-height: 1.6;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 0.8em;
+  }
+
+
+
+body {
+  position: relative;
+}
+
+.image-section {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 20px; 
+}
+
+.image-container img {
+  max-width: 100%; 
+  border-radius: 10px; 
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+body {
+  position: relative;
+}
+
+.image-section {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  width: 95px; 
+  height: 90px; 
+}
+
+.image-container img {
+  max-width: 100%;
+  max-height: 100%;
+  
+}
+
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #DCDCDC;
+}
+
+header {
+  background-color: #696969;
+  color: #000000;
+  padding: 1em;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0 1em;
+}
+
+nav a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+}
+
+nav a:hover {
+  color: #DCDCDC;
+}
+
+#Achievments {
+  text-align: center;
+  padding: 2em;
+}
+
+.image-gallery {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.image-gallery img {
+  width: 250px; 
+  height: auto; 
+  margin: 10px; 
+}
+
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #DCDCDC;
+}
+
+header {
+  background-color: #696969;
+  color: #000000;
+  padding: 1em;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0 1em;
+}
+
+nav a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+}
+
+nav a:hover {
+  color: #DCDCDC;
+}
+
+.about-me {
+  text-align: center;
+  padding: 2em;
+}
+
+.about-me h2 {
+  color: #333; 
+}
+
+.about-me p {
+  color: #000000;
+  line-height: 1.6;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #DCDCDC;
+}
+
+header {
+  background-color: #696969;
+  color: #000000;
+  padding: 1em;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0 1em;
+}
+
+nav a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+}
+
+nav a:hover {
+  color: #DCDCDC;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #DCDCDC;
+}
+
+header {
+  background-color: #696969;
+  color: #000000;
+  padding: 1em;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0 1em;
+}
+
+nav a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+}
+
+nav a:hover {
+  color: #DCDCDC;
+}
+
+#Resume {
+  text-align: center;
+  padding: 2em;
+}
+
+#Resume h2 {
+  color: #333; 
+}
+
+.image-gallery img {
+  width: 300px;
+  height: auto;
+}
+
+
+#contact h2 {
+  text-align: center;
+}
+
+
+#Achievements h2 {
+  text-align: center;
+}
